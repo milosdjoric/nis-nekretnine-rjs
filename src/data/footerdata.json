@@ -1,0 +1,91 @@
+{
+  "footerlogo": "assets/img/logo.png",
+  "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+  "footerbg": "assets/img/bg/footer.png",
+  "socialicon": [
+    {
+      "icon": "fa fa-facebook",
+      "url": "https://www.facebook.com/NisNekretnine/"
+    },
+    {
+      "icon": "fa fa-twitter",
+      "url": ""
+    },
+    {
+      "icon": "fa fa-linkedin",
+      "url": ""
+    }
+  ],
+  "copyrighttext": "Copyrights© <a href='https://www.nis-nekretnine.com/' target='_blank'><span>www.nis-nekretnine.com</span></a>, 2009-2020. All rights reserved",
+  "PonudeIzOglasa": {
+    "title": "Ponude iz oglasa",
+    "links": [
+      {
+        "title": "Stanovi",
+        "url": "/"
+      },
+      {
+        "title": "Placevi",
+        "url": "/"
+      },
+      {
+        "title": "Vikendice",
+        "url": "/"
+      },
+      {
+        "title": "Magacinski prostor",
+        "url": "/"
+      },
+      {
+        "title": "Kuće",
+        "url": "/"
+      },
+      {
+        "title": "Garaže",
+        "url": "/"
+      },
+      {
+        "title": "Poslovni prostor",
+        "url": "/"
+      }
+    ]
+  },
+  "servisiSajta": {
+    "title": "Servisi sajta",
+    "links": [
+      {
+        "title": "Dodaj oglas",
+        "url": "/dodaj-oglas"
+      },
+      {
+        "title": "Adresar",
+        "url": "/adresar"
+      },
+      {
+        "title": "Saveti",
+        "url": "/saveti"
+      },
+      {
+        "title": "Uslovi korišćenja",
+        "url": "/"
+      }
+    ]
+  },
+  "korisniLinkovi": {
+    "title": "Korisni linkovi",
+    "links": [
+      {
+        "title": "Link #1",
+        "url": "/"
+      },
+      {
+        "title": "Link #2",
+        "url": "/"
+      },
+      {
+        "title": "Link #3",
+        "url": "/"
+      }
+    ]
+  }
+}
